@@ -1,0 +1,23 @@
+{
+  "name": "hello-app",
+  "version": "1.0.0",
+  "description": "App para maratona full cycle",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chag86/hello-app.git"
+  },
+  "author": "Rodrigo Miranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chag86/hello-app/issues"
+  },
+  "homepage": "https://github.com/chag86/hello-app#readme"
+}
